@@ -7,7 +7,7 @@
 - [x] summary
 
 ### chap3: Dealing with Data
-- [ ] Integer Types
+- [x] Integer Types
 
 Computer memory consists of units called **bits**. Short, int, long and long long can represent up to four different **integer width**.
 
@@ -33,7 +33,18 @@ long double> double> float> integer types;（低阶配合高阶）
 对于 signed 和 unsigned，转向高阶的符号。
 
 
-
-
+### chap4: Compound Types
+- [ ] arrays
+- [ ] strings
+  - [ ] getline(), get()
+- [ ] structures
+- [ ] unions
+- [ ] enumerations
+- [ ] pointers
+- [ ] manage dynamic memory with *new* and *delete*
+- [ ] dynmaic arrays
+- [ ] dynamic structures
+- [ ] automatic, static, and dynamic storage
+- [ ] vector and array classes
 
 
