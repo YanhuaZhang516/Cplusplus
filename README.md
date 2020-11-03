@@ -17,6 +17,23 @@ A byte usually means an 8-bit unit of memory.
 - *long*: at least 32 bits and at least as big as *int* 
 - *long long*: at least 64 bits and at least as big as *long*
 
-这些数也包含负数，所以比如说对于16bits的short类型数，它的范围是（-2^8 ~2^8), 而对于 unsigned 类型，则数值范围为 （0 ~ 2^16)
 
-- [ ] floating point numbers
+- [x] Floating-Point types
+
+- *float*: at least 32 bits
+- *double*: at least 48 bits, no smaller than *float*. 对于浮点数，double是默认类型。
+- *long double*: at least as big as double, usually is 80,96,128 bits
+
+- [x] Arithmetic Operations
+- [ ] narrowing conversion, list-initialization??
+
+转换顺序： 
+
+long double> double> float> integer types;（低阶配合高阶）
+对于 signed 和 unsigned，转向高阶的符号。
+
+
+
+
+
+
