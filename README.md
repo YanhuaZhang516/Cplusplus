@@ -47,6 +47,9 @@ long double> double> float> integer types;（低阶配合高阶）
   - free memory with *delete*
 - [ ] dynmaic arrays
 - [动态/静态数组详解](https://blog.csdn.net/chenmozhe22/article/details/106282516)
+
+（3h20min for 130-182页）
+
 - [ ] dynamic structures
 - [ ] automatic, static, and dynamic storage
 - [ ] vector and array classes
