@@ -39,11 +39,14 @@ long double> double> float> integer types;（低阶配合高阶）
   - [x] getline(), get()
   - [ ] char16_t, char32_t, w_char
 - [x] structures
-- [ ] unions
-- [ ] enumerations
-- [ ] pointers
-- [ ] manage dynamic memory with *new* and *delete*
+- [x] unions
+- [x] enumerations
+- [x] pointers
+- [x] manage dynamic memory with *new* and *delete*
+  - allocate memory with *new*
+  - free memory with *delete*
 - [ ] dynmaic arrays
+- [动态/静态数组详解](https://blog.csdn.net/chenmozhe22/article/details/106282516)
 - [ ] dynamic structures
 - [ ] automatic, static, and dynamic storage
 - [ ] vector and array classes
