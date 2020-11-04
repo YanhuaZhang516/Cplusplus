@@ -34,10 +34,11 @@ long double> double> float> integer types;（低阶配合高阶）
 
 
 ### chap4: Compound Types
-- [ ] arrays
-- [ ] strings
-  - [ ] getline(), get()
-- [ ] structures
+- [x] arrays
+- [x] strings
+  - [x] getline(), get()
+  - [ ] char16_t, char32_t, w_char
+- [x] structures
 - [ ] unions
 - [ ] enumerations
 - [ ] pointers
